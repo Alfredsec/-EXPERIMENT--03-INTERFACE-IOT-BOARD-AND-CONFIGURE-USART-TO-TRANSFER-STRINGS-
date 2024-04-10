@@ -69,8 +69,8 @@ int main(void)
 
   while (1)
   {
-	  printf("ALFRED\n");
-	  printf("CSE(IOT)\n");
+	  printf("SHANMUGAVEL RM\n");
+	  printf("AIDS\n");
 	 HAL_Delay(500);
   }
 }
