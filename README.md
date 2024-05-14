@@ -1,5 +1,5 @@
 
-###  DATE: 09.04.2024
+###  DATE: 15/3/2024
 
 ###  NAME: ALFRED A B
 ###  ROLL NO : 212222110002
@@ -84,7 +84,7 @@ PUTCHAR_PROTOTYPE
 
 ## Output screen shots of Serial port utility   :
  
- ![319046044-678b401c-9b93-43bf-b7da-72c7ae296e2e](https://github.com/Alfredsec/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/120621608/b971d89b-6d2c-4a7b-8b50-e122d0810b4d)
+![312355398-b29dba2f-e2ec-4683-be0d-7caeb1c8d2d6](https://github.com/Alfredsec/-EXPERIMENT--03-INTERFACE-IOT-BOARD-AND-CONFIGURE-USART-TO-TRANSFER-STRINGS-/assets/120621608/fc957b97-81bb-4f69-b657-2cd3283df11f)
 
  
  
